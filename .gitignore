@@ -1,0 +1,6 @@
+.spyproject
+**.DS_Store
+*/__pycache__/**
+logfiles/**
+forGif
+**.ipynb_checkpoints
